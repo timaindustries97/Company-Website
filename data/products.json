@@ -1,0 +1,68 @@
+[
+    {
+        "title": "Inner Roller Shaft",
+        "description": "The Inner Roller Shaft is the backbone of inner roller — and this one leads the industry in strength, durability, and performance. Crafted from high-grade materials and engineered for a perfect fit, it ensures smooth rotation and stability, even under heavy use. Designed for compatibility with most inner roller tubes, its dust-resistant finish and ergonomic build make it ideal for both professional painters and DIY projects.",
+        "capacity": "Diameter: 15mm to 550mm, Length: 100mm to 6000mm",
+        "image": "images/bolt.jpeg"
+    },
+    {
+        "title": "Inner Roller Tube",
+        "description": "Introducing the Inner Roller Tube – the ultimate choice for seamless, efficient, and professional-grade painting in compact or narrow areas. Engineered with precision and made from high-quality materials, this inner roller tube ensures even paint flow and smooth application every time. Trusted by clients for its durability and high performance.",
+        "capacity": "Diameter: 20mm to 700mm, Length: 500mm to 4500mm",
+        "image": "images/bolt.jpeg"
+    },
+    {
+        "title": "Rubber Roller",
+        "description": "Designed for precision, durability, and versatility, our Rubber Roller stands out as the best in the market. Built with premium-grade rubber and a solid core, it delivers consistent pressure and smooth performance across a wide range of surfaces. Ideal for printing, laminating, and industrial use.",
+        "capacity": "Diameter: 75mm to 700mm, Length: 250mm to 4500mm",
+        "image": "images/bolt.jpeg"
+    },
+    {
+        "title": "Pulley (Driven and Non-Driven)",
+        "description": "Driven Pulley: Precision-balanced and high-friction lagged for optimal torque transmission. Non-Driven Pulley: Rugged and low-maintenance, crucial for belt support and tensioning. Both ensure long-lasting performance and efficiency in conveyor and mechanical systems.",
+        "capacity": "Diameter: 90mm to 700mm, Length: 500mm to 4500mm",
+        "image": "images/bolt.jpeg"
+    },
+    {
+        "title": "Hydraulic Spare Parts",
+        "description": "Premium hydraulic components like seals, hoses, valves, and cylinders built for durability and performance under extreme pressure and conditions. Trusted across industries for reliability and precision engineering.",
+        "capacity": "Diameter: 50mm to 450mm, Length: 150mm to 4500mm",
+        "image": "images/bolt.jpeg"
+    },
+    {
+        "title": "Sprockets",
+        "description": "A toothed wheel that transmits rotary motion through chain engagement. Essential in industrial, automotive, and mechanical drive systems. Built for strength, wear resistance, and precise motion control.",
+        "capacity": "Size: 50mm to 800mm",
+        "image": "images/bolt.jpeg"
+    },
+    {
+        "title": "Chain Link",
+        "description": "Interlocking metal components used in chains for power transmission, lifting, and securing loads. Designed for durability, flexibility, and consistent performance under load.",
+        "capacity": "Varies by type (roller, welded, link chain)",
+        "image": "images/bolt.jpeg"
+    },
+    {
+        "title": "Gear and Worm Shaft",
+        "description": "Gear: Rotating toothed component used in mechanical systems to transmit torque. Available in various types like spur, bevel, and helical. Worm Shaft: A screw-like gear transmitting motion at 90° angles, ideal for compact, high-torque applications.",
+        "capacity": "Gear Size: 50mm to 800mm, Worm Shaft Diameter: 40mm to 250mm, Length: 100mm to 600mm",
+        "image": "images/bolt.jpeg"
+    },
+    {
+        "title": "Auger",
+        "description": "A helical tool used for drilling or moving materials such as earth or grain. Widely used in agriculture, construction, and mining, offering precise operation and durability.",
+        "capacity": "Diameter: 150mm to 500mm, Length: 250mm to 5000mm",
+        "image": "images/bolt.jpeg"
+    },
+    {
+        "title": "Bearing Block",
+        "description": "Also known as a plummer or pillow block, this housing supports a rotating shaft and includes a bearing to reduce wear and friction. Ideal for conveyors, motors, and machinery.",
+        "capacity": "Bearing Diameter: 26mm to 440mm",
+        "image": "images/bolt.jpeg"
+    },
+    {
+        "title": "Bush and Pin",
+        "description": "Crucial chain components allowing smooth articulation and efficient power transfer. The pin connects chain links while the bush reduces friction and wear. Ideal for industrial chains and drives.",
+        "capacity": "Diameter: 10mm to 270mm, Length: 10mm to 900mm",
+        "image": "images/bolt.jpeg"
+    }
+]

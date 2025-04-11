@@ -1,22 +1,43 @@
-.low{
-    height: 400px;
+.low {
+  height: 400px;
 }
 
-.aboutImg{
-    height: 300px;
+.aboutImg {
+  height: 300px;
 }
 
-.center{
-    text-align: center;
+.center {
+  text-align: center;
 }
 
-.photo{
-    height: 200px;
-    width: 200px;
+.photo {
+  height: 200px;
+  width: 200px;
 }
 
-.footer{
-    padding: 20px;
-    color: white;
-    background-color: blue;
+.footer {
+  padding: 20px;
+  color: white;
+  background-color: blue;
+}
+
+input.form-style,
+textarea.form-style {
+  padding: 1rem 0.75rem;
+}
+
+.form-style {
+  background-color: #e6f0ff;
+  border: 1px solid #007bff;
+  border-radius: 0.75rem;
+  color: #000;
+}
+
+.form-style::placeholder {
+  color: #666;
+}
+
+.form-style:focus {
+  box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25);
+  border-color: #007bff;
 }
